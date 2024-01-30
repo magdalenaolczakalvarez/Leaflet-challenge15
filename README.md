@@ -4,4 +4,4 @@ Part 1: Create the Earthquake Visualization
 
 index.html (HTML file) Folder: static/js/logic.js (java script) Folder: static/css/style.css
 
-Your site is live at https://github.com/magdalenaolczakalvarez/Leaflet-challenge15/blob/main/Leaflet%20Step-1.html
+Your site is live at 
